@@ -1,3 +1,5 @@
 text of new chapter 2 page 5
 
 some news
+
+editor: add more about this story
